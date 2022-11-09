@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test cases">
+	<parameter name="username" value="WelcomeUser1" />
+	<test name="Users">
+		<classes>
+			<class name="com.usersandproducts.Parametes" />
+		</classes>
+	</test>
+</suite>
